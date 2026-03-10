@@ -1,0 +1,1 @@
+image_aplha = 0.6;
